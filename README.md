@@ -1,2 +1,2 @@
 # PortfolioPage
-Building a portfolio page where all the developer work will be present
+Building a portfolio page where my personal project works will be available.
